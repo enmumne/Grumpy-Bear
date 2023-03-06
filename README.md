@@ -1,4 +1,4 @@
-# Grumpy GregTech 6
+# Grumpy Bear 6
 Bear's vanilla version
 
 What it is: 
