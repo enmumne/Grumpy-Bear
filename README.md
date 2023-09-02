@@ -2,7 +2,7 @@
 Bear's vanilla version
 
 What it is: 
-+ GregTech 6 on Java 19, based on Bear's default testing pack
++ GregTech 6 on Java 20, based on Bear's default testing pack
 + performance mods: NotFine + Neodymium + Archaicfix + CoreTweaks
 + no Fastcraft or Optifine
 + updated mods, but no other changes
