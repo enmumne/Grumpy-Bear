@@ -7,9 +7,7 @@ What it is:
 + no Fastcraft or Optifine
 + updated mods, but no other changes
 
-It should import and run with PolyMC/Prism, but you need to point it to your local Java 21 version.
-
-Since it's a copy of my own instance, you should redirect it to your local Java 21 copy. My Java flags work with GraalVM. 
+It should import and run with PolyMC/Prism, but you need to point it to your local Java 21 version. My Java flags work with GraalVM. 
 
 I'm using Oracle official release:  
 https://www.oracle.com/java/technologies/downloads/#graalvmjava21-windows  
