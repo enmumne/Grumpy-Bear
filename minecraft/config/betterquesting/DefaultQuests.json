@@ -37,7 +37,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "§eWarning:   This quest is from the old way to get to the crucible.  The Brick burning Box is a much faster way and you don\u0027t have to waste your metal making a plates, a file or a wrench before you can use a crucible to pour your plates.\n§f\nFor our next major step (the crucible) we need a hammer and an anvil.\n\nWith the crucible we can easily cast those but for now we need another way.\nFirst make a hammer and anvil.  The easiest anvil is made from stone but only has 1 use. Making an anvil from black or red granite will last longer.  Later you can make one from your metals.  Place 2 ingots (I recommend bronze) on the anvil (one left, one right) hammer it and you get double ingot, use the anvil again and you get a plate and some scraps. You will need 8 plates for now.\n\nNow make a file using 2 of your plates.\n\nNext you will want make a wrench and you are almost ready to take on the world.\n\nFinally you will need a rolling pin.  You can make this from wood.  All you need is 1 plank and 2 sticks.\n\nNow you finally have the tools you need to make a crucible, which will be your first way to indirectly increase your ore output (when you cast plates they only cost 1 ingot worth of material, and rods only cost 0.5 ingots)\n§9§b\nNote:  You can make either a stone anvil, black granite anvil, or red granite anvil.  You can see these options by clicking the right arrow in the bottom right of the pane to the right.  The stone anvil will complete the quest but will break when you make your first plate.  I recommend to make a level 3 pick (red/black granite rocks) and mine some red/black granite stone to make the better anvils.\n§f§a\nTo complete this quest make the following:\n1 Hammer from rocks.\n1 Stone or Black Granite or Red Granite anvil\n1 File (recommend bronze or lead)\n1 Wrench (recommend bronze or lead)\n1 Rolling Pin (from wood plank and sticks)\n"
+          "desc:8": "§eWarning:  This quest is from the old way to get to the crucible.  The Brick burning Box is a much faster way and you don\u0027t have to waste your metal making a plates, a file or a wrench before you can use a crucible to pour your plates.\n§f\nFor our next major step (the crucible) we need a hammer and an anvil.\n\nWith the crucible we can easily cast those but for now we need another way.\nFirst make a hammer and anvil.  The easiest anvil is made from stone but only has 1 use. Making an anvil from black or red granite will last longer.  Later you can make one from your metals.  Place 2 ingots (I recommend bronze) on the anvil (one left, one right) hammer it and you get double ingot, use the anvil again and you get a plate and some scraps. You will need 8 plates for now.\n\nNow make a file using 2 of your plates.\n\nNext you will want make a wrench and you are almost ready to take on the world.\n\nFinally you will need a rolling pin.  You can make this from wood.  All you need is 1 plank and 2 sticks.\n\nNow you finally have the tools you need to make a crucible, which will be your first way to indirectly increase your ore output (when you cast plates they only cost 1 ingot worth of material, and rods only cost 0.5 ingots)\n§9§b\nNote:  You can make either a stone anvil, black granite anvil, or red granite anvil.  You can see these options by clicking the right arrow in the bottom right of the pane to the right.  The stone anvil will complete the quest but will break when you make your first plate.  I recommend to make a level 3 pick (red/black granite rocks) and mine some red/black granite stone to make the better anvils.\n§f§a\nTo complete this quest make the following:\n1 Hammer from rocks.\n1 Stone or Black Granite or Red Granite anvil\n1 File (recommend bronze or lead)\n1 Wrench (recommend bronze or lead)\n1 Rolling Pin (from wood plank and sticks)\n"
         }
       },
       "tasks:9": {
@@ -301,7 +301,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Let\u0027s get a furnace.\n§4§rTo make one you need a fire starter.\n§e\n§c§eCareful: If you have found a lighter or similar in a dungeon, that also works, but will use up the whole item, so that might be a waste!.\n\n§k§rFor the fire starter we need some dry grass, so make a knife and right click grass to collect some fresh grass.  Craft the grass into a 3x3 to make grass bales and place them in the sun to let them dry (be sure they are somewhere dry and not right next to a lake or out in the rain, otherwise they will get moldy)\nWhen the bales are dry you can collect them and then craft them back into 9 dry grass and make your fire starter.  You use 2 sticks and 1 dry grass to make a fire starter.  You might want to make multiple since we need more later anyway.\n§b\nNote: You may have noticed dead logs either laying on the ground or still standing around the landscape.  If you right click these with an axe, you will receive dry bark.  You can combine 2 sticks and the dried bark to create  a fire starter.  Be aware that fire starters do not stack so be careful filling your inventory with these. \n§f§b\nNote 2: Your furnace can only melt a few ores like copper, tin/cassiterite, lead and bronze. For higher tier metals you need a crucible.  The furnace can still make glass from sand.\n§a\nMake the following:\n1 Flint Knife\n1 Bale of Grass\n1 Bale of Dried Grass\n1 Fire Starter made from dry grass or dry bark\n1 Furnace\n"
+          "desc:8": "Let\u0027s get a furnace.\n§4§rTo make one you need a fire starter.\n§e\n§c§eCareful: If you have found a lighter or similar in a dungeon, that also works, but will use up the whole item, so that might be a waste!.\n\n§k§rFor the fire starter we need some dry grass, so make a knife and right click grass to collect some fresh grass.  Craft the grass into a 3x3 to make grass bales and place them in the sun to let them dry (be sure they are somewhere dry and not right next to a lake or out in the rain, otherwise they will get moldy)\nWhen the bales are dry you can collect them and then craft them back into 9 dry grass and make your fire starter.  You use 2 sticks and 1 dry grass to make a fire starter.  You might want to make multiple since we need more later anyway.\n§b\nNote: You may have noticed dead logs either laying on the ground or still standing around the landscape.  If you right click these with an axe, you will receive dry bark.  You can combine 2 sticks and the dried bark to create  a fire starter.  Be aware that fire starters do not stack so be careful filling your inventory with these. \n§f§b\nNote 2: Your furnace can only melt a few ores like copper, tin/cassiterite, lead and bronze. For higher tier metals you need a crucible.  The furnace can still make glass from sand.\n§a\nMake the following:\n1 Flint Knife\n1 Bale of Grass\n1 Bale of Dried Grass\n1 Fire Starter made from dry grass or dry bark\n1 Furnace\n§e\nRemember you can see the other options to complete the quest by clicking the right arrow in the lower right of the pane to the right,"
         }
       },
       "tasks:9": {
@@ -1220,7 +1220,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Do you think sometimes \u0027it would be great to have a crafting table that holds it\u0027s items and also has some storage for all the tools i need? Wouldn\u0027t it even better when that crafting table also refills your buckets with fluid when placed next to a tank with that fluid?\nSay no more, here is the advanced crafting table!\n§b\nPro Tip:  To have water or any fluid work with the Advanced Crafting Table, you will need a tank like a barrel or drum or a pipe with at least 1,000 L bandwidth.\n§f§a\nTo complete this quest craft:\n1 Advanced Crafting Table from bronze, lead, or brass"
+          "desc:8": "Do you think sometimes \u0027it would be great to have a crafting table that holds it\u0027s items and also has some storage for all the tools i need? Wouldn\u0027t it even better when that crafting table also refills your buckets with fluid when placed next to a tank with that fluid?\nSay no more, here is the advanced crafting table!\n§b\nPro Tip:  To have water or any fluid work with the Advanced Crafting Table, you will need a tank like a barrel or drum or a pipe with at least 1,000 L bandwidth.\n§f§a\nTo complete this quest craft:\n1 Advanced Crafting Table from bronze, lead, brass, arsenic copper, or arsenic bronze"
         }
       },
       "tasks:9": {
@@ -1270,6 +1270,40 @@
               "id:8": "gregtech:gt.multitileentity",
               "Count:3": 1,
               "Damage:2": 5008,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "3:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 3,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 5057,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "4:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 4,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 5058,
               "OreDict:8": ""
             }
           },
@@ -2061,7 +2095,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "A boiler converts water into steam if supplied with a heat source\n§c\nCareful: If your boiler runs out of water but is still supplied with heat, it can melt\nCareful: If your boiler accumulates to much pressure (e.g. the steam isn\u0027t removed or a too strong heat source is used) it can blow up\n§l§l§r§cCareful: If your boiler is empty AND hot and is supplied with water, it will blow up. Make sure to only supply water to cold boilers or boilers that are not empty\n§f\nYou will need some pipes to transport the steam.  You will need to make some small copper or bronze pipes to transport the steam.\n§f\nIf you supply a boiler with normal water, it will calcify over time, thus reducing it\u0027s effiency. You can decalcify your boiler by either removing it and placing it again or using a chisel on it.\nEven better, supply your boiler with destilled water and it will never calcify.\n§c\nCareful: If you use a chisel on a hot boiler to decalcify it, it will blow up. Make sure it\u0027s cold\n§f§a\nTo complete this quest craft:\n1 Bronze Burning Box\n1 Bronze Boiler\n4 Small coppper or Bonze pipes\n\n§b\nChoose a cookie below.  You will also receive the GT6 Steam Manual free of charge."
+          "desc:8": "A boiler converts water into steam if supplied with a heat source\n§c\nCareful: If your boiler runs out of water but is still supplied with heat, it can melt\nCareful: If your boiler accumulates to much pressure (e.g. the steam isn\u0027t removed or a too strong heat source is used) it can blow up\n§l§l§r§cCareful: If your boiler is empty AND hot and is supplied with water, it will blow up. Make sure to only supply water to cold boilers or boilers that are not empty\n§f\nYou will need some pipes to transport the steam.  You will need to make some small copper or bronze pipes to transport the steam.\n§f\nIf you supply a boiler with normal water, it will calcify over time, thus reducing it\u0027s effiency. You can decalcify your boiler by either removing it and placing it again or using a chisel on it.\nEven better, supply your boiler with destilled water and it will never calcify.\n§c\nCareful: If you use a chisel on a hot boiler to decalcify it, it will blow up. Make sure it\u0027s cold\n§f§a\nTo complete this quest craft:\n1 Bronze, Arsenic Copper, or Arsenic Bronze Burning Box\n1 Bronze, Arsenic Copper, or Arsenic Bronze Boiler\n4 Small coppper or Bonze pipes\n§e§6§d§9§a§b§c§d§e\nWarning:  The boiler and burning box must be made of the same material to complete this quest.  \n\n§b\nChoose a cookie below.  You will also receive the GT6 Steam Manual free of charge."
         }
       },
       "tasks:9": {
@@ -2069,7 +2103,7 @@
           "partialMatch:1": 1,
           "autoConsume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "consume:1": 0,
           "requiredItems:9": {
@@ -2112,6 +2146,122 @@
               "id:8": "gregtech:gt.multitileentity",
               "Count:3": 1,
               "Damage:2": 1202,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 4,
+              "Damage:2": 26121,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 2,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1111,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1210,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 4,
+              "Damage:2": 26101,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "3:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 3,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1111,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1210,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 4,
+              "Damage:2": 26121,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "4:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 4,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1112,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1211,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 4,
+              "Damage:2": 26101,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "5:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 5,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1112,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1211,
               "OreDict:8": ""
             },
             "2:10": {
@@ -19986,7 +20136,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now we have sulfur trioxide, which we can now mix it with some water and we get sulfuric acid!\n\nAll you need to do is pipe over the sulfer trioxide and water and then pipe out the sulfuric acid.  You can use a bronze turbine as the mixer only need 16RU to make the sulfuric acid.  The pipes that you use to pipe over the water and sulfur trioxide are up to you.  Bronze or rubber will work.\n\nYou will need the following machines:\n1 Bronze burnign Box [any type]\n1 Bronze Boiler\n1 Bronze Turbine\n1 Bronze Mixer\n\n-OR-\n1 Bronze Diesel Generator\n1 Bronze Mixer\n§b\nYou will also need the following:\nsome small bornze/invar pipes for gas input\nsome small stainless steel pipes for output\n§6§e\nWarning:  Be careful with the fluid output from your mixer.  make sure the pipes and drum can handle acids before using them.  Hint:  wonder why stainless steel is in this tab?\n§f§6§7§8§9§a§b§c§d§e§d§e§f§k§f§6§b§a§6\nMixer Recipe:\n1000L Sulfur Trioxide + 750L Water \u003d\u003e [Mixer 16RU/t] \u003d\u003e  1750L Sulfuric Acid\n§6§a\nTo complete the quest collect the following:\n1000L Sulfuric Acid in a drum (USE STAINLESS STEEL!!)\n\n"
+          "desc:8": "Now we have sulfur trioxide, which we can now mix it with some water and we get sulfuric acid!\n\nAll you need to do is pipe over the sulfer trioxide and water and then pipe out the sulfuric acid.  You can use a bronze turbine as the mixer only need 16RU to make the sulfuric acid.  The pipes that you use to pipe over the water and sulfur trioxide are up to you.  Bronze or rubber will work.\n\nYou will need the following machines:\n1 Bronze burning Box [any type]\n1 Bronze Boiler\n1 Bronze Turbine\n1 Bronze Mixer\n\n-OR-\n1 Bronze Diesel Generator\n1 Bronze Mixer\n§b\nYou will also need the following:\nsome small bornze/invar pipes for gas input\nsome small stainless steel pipes for output\n§6§e\nWarning:  Be careful with the fluid output from your mixer.  make sure the pipes and drum can handle acids before using them.  Hint:  wonder why this quest was placed in the stainless steel tab?\n§f§6§7§8§9§a§b§c§d§e§d§e§f§k§f§6§b§a§6\nMixer Recipe:\n1000L Sulfur Trioxide + 750L Water \u003d\u003e [Mixer 16RU/t] \u003d\u003e  1750L Sulfuric Acid\n§6§a\nTo complete the quest collect the following:\n1000L Sulfuric Acid in a drum (USE STAINLESS STEEL!!)\n\n"
         }
       },
       "tasks:9": {
@@ -20199,7 +20349,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Would you want more room to store your needed plates, rods, screws, or any other part and have it connect to your Advanced Crafting Table.  I have a deal for you.  With the cost of a few plates I offer you the Compartment Drawer.  Just craft one and place it next to your Advanced Crafting table and now you have more stoarge for your stuff with the ease of the Advanced Crafting Table crafting.\n§a\nTo complete the quest craft:\n1 Bronze, Lead, Invar or Steel Compartment Drawer."
+          "desc:8": "Would you want more room to store your needed plates, rods, screws, or any other part and have it connect to your Advanced Crafting Table.  I have a deal for you.  With the cost of a few plates I offer you the Compartment Drawer.  Just craft one and place it next to your Advanced Crafting table and now you have more stoarge for your stuff with the ease of the Advanced Crafting Table crafting.\n§a\nTo complete the quest craft:\n1 Bronze, Lead, Invar, Steel, Arsenic Copper, or Arsenic Bronze Compartment Drawer."
         }
       },
       "tasks:9": {
@@ -20266,6 +20416,40 @@
               "id:8": "gregtech:gt.multitileentity",
               "Count:3": 1,
               "Damage:2": 4000,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "4:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 4,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 4057,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "5:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 5,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 4058,
               "OreDict:8": ""
             }
           },
@@ -20737,7 +20921,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You will need some hydrogen fluoride for use in making hexafluorosilicic acid in order to process alumina into aluminium.\n\nTo make the Hydrogen Fluoride craft\n1 Bronze Mixer\n1 Bronze turbine\nappropiate power for the turbine\n\nOnce you craft these machines set up the mixer with appropiate power to power the turbine.\n\nYou will need to pipe in your Sulfuric acid and put in 3 fluuorite dists (any color dust will work).\n\nOnce running you will get 6 Calcium Sulfate Dust and 4 Hydrogen Fluoride fluid.  You will need to pipe the Hydrogen Fluoride to the next quest to continue the process.\n§a§6\nThe recipe:\n3 Fluorite Dusts (any color) + 7000L Sulfuric Acid \u003d\u003e [Mixer 16/RU/t] \u003d\u003e 6 Calcium Sulfacte Dusts + 4000L Hydrogen Sulfide.\n§a§f§6§a\nTo complete the quest colelect in a drum:\n1000L of Hydrogen Fluoride\n§9§b\nNote:  You cannot collect Hydrogen Fluoride with a bucket use a drum.  You can empty the fluid from the drum into the mixer for the next quest."
+          "desc:8": "You will need some hydrogen fluoride for use in making hexafluorosilicic acid and molten cryolite in order to process alumina into aluminium.\n\nTo make the Hydrogen Fluoride craft\n1 Bronze Mixer\n1 Bronze turbine and appropiate burning box and boiler\nor diesel generator\n\nYou will need to pipe in your Sulfuric acid and put in 3 fluorite dusts (any color dust will work).\n\nOnce running you will get 6 Calcium Sulfate Dust and 4 Hydrogen Fluoride fluid.  You will need to pipe the Hydrogen Fluoride to the next quest to continue the process.\n§a§6\nThe recipe:\n3 Fluorite Dusts (any color) + 7000L Sulfuric Acid \u003d\u003e [Mixer 16/RU/t] \u003d\u003e 6 Calcium Sulfacte Dusts + 4000L Hydrogen Sulfide.\n§a§f§6§a\nTo complete the quest colelect in a drum:\n1000L of Hydrogen Fluoride\n§9§b\nNote:  You cannot collect Hydrogen Fluoride with a bucket, you need to use a drum.  You can empty the fluid from the drum into the mixer for the next two quests."
         }
       },
       "tasks:9": {
@@ -22592,7 +22776,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So now you have your crucible set up and you have tools, you are going to need something to make double plates, curved plates and springs.  This early in path through technology, you will need an anvil.  Now that we have bronze, a bronze anvil will last significant longer t han those rock anvils.  If unfortunately you are really short on bronze, you could make a lead, red granite or black granite anvil until you find more copper and tin.\n§b\nNote:\nRegular stone has 1 durability/use\nRed or Black Granite has 10 durability\nLead has 80 durability\nBronze has 100 durability\nSteel has 1000 durability\nYou will want to upgrade your anvil when you can.  You should be able to recycle your old metal anvils in the crucible as long as they have not borken.\n§a\nTo complete this quest craft of pick up:\n1 Bronze, Lead, Red Granite, or Black Granite Anvil\n"
+          "desc:8": "So now you have your crucible set up and you have tools, you are going to need something to make double plates, curved plates and springs.  This early in path through technology, you will need an anvil.  Now that we have bronze, a bronze anvil will last significant longer t han those rock anvils.  If unfortunately you are really short on bronze, you could make a lead, red granite or black granite anvil until you find more copper and tin.\n§b\nNote:\nRegular stone has 1 durability/use\nRed or Black Granite has 10 durability\nLead has 80 durability\nBronze and Arsenic Copper has 100 durability\nArsenic Bronze has 200 durability\nSteel has 1000 durability\nYou will want to upgrade your anvil when you can.  You should be able to recycle your old metal anvils in the crucible as long as they have not borken.\n§a\nTo complete this quest craft of pick up:\n1 Red Granite, Black Granite, Lead, Bronze, Arsenic Copper, or Arsenic Bronze Anvil\n"
         }
       },
       "tasks:9": {
@@ -22671,6 +22855,46 @@
                 "gt.durability:3": 100000
               },
               "Damage:2": 32026,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "4:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 4,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "tag:10": {
+                "gt.durability:3": 1000000
+              },
+              "Damage:2": 32106,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "5:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 5,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "tag:10": {
+                "gt.durability:3": 2000000
+              },
+              "Damage:2": 32107,
               "OreDict:8": ""
             }
           },
@@ -22900,7 +23124,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Black Steel is a much stronger allow that regular steel and your tools and anvils will last longer.  Black Steel is made from Nickel, Black Bronze and Steel.\n§b\nNote:\nBlack Steel pickaxe has 76,8090 durability and is a Level 2 pick\nBlack steel Anvil has 3,000 durability\n§6\nRecipe:\n1 Nickel ingot/dust + 1 Black Bronze Ingot/dust + 3 Steel/Meteoric Steel \u003d\u003e [Crucible 1838 K] \u003d\u003e 3 Black Steel ingots/plates\n§a\nTo complete this quest make:\n5 Black Steel ingot or plate"
+          "desc:8": "Black Steel is a much stronger allow that regular steel and your tools and anvils will last longer.  Black Steel is made from Nickel, Black Bronze and Steel.\n§b\nNote:\nBlack Steel pickaxe has 76,8090 durability and is a Level 2 pick\nBlack steel Anvil has 3,000 durability\n§6\nRecipe:\n1 Nickel ingot/dust + 1 Black Bronze Ingot/dust + 3 Steel/Meteoric Steel \u003d\u003e [Crucible 1838 K] \u003d\u003e 5 Black Steel ingots/plates\n§a\nTo complete this quest make:\n5 Black Steel ingot or plate"
         }
       },
       "tasks:9": {
@@ -23723,7 +23947,7 @@
       "properties:10": {
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
-          "taskLogic:8": "AND",
+          "taskLogic:8": "OR",
           "visibility:8": "ALWAYS",
           "isMain:1": 0,
           "simultaneous:1": 0,
@@ -23742,7 +23966,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "As you probably have found out that the Brick Burning Box is very very ineffecient.  Now that we have some Bronze, lets make a better burning box so you can save some of your fuel and also some time watching metal melt.  You will be making quite a few of these so let get started with the first one.\n§a\nTo complete this quest craft:\n1 Bronze Burning Box (Solid)\n"
+          "desc:8": "As you probably have found out that the Brick Burning Box is very very ineffecient.  Now that we have some Bronze, lets make a better burning box so you can save some of your fuel and also some time watching metal melt.  You will be making quite a few of these so let get started with the first one.  \n§b\nNote: As of Gregtech 6.16.02, Greg has added Arsenic alloys as early tech items.  Arsenic is a byproduct from washing copper and tetra once you have a cauldron.  A Bronze burning box has an effecency of 75% and an output of 24 HU/t.  A Arsenic Copper burning box is 80% effecient and has an output of 24 HU/t.  Finally a Arsenic Bronze burning box is 90% effecient and 28 HU/t.  In other words you get more heat out of the same amount of fuel.\n§a\nTo complete this quest craft:\n1 Bronze Burning Box (Solid)\n-or-\n1 Arsenic Copper Burning Box (Solid)\n-or-\n1 Arsenic Bronze Burning Box (Solid)\n\n"
         }
       },
       "tasks:9": {
@@ -23758,6 +23982,40 @@
               "id:8": "gregtech:gt.multitileentity",
               "Count:3": 1,
               "Damage:2": 1102,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1111,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 2,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 1112,
               "OreDict:8": ""
             }
           },
@@ -24551,7 +24809,7 @@
       "properties:10": {
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
-          "taskLogic:8": "AND",
+          "taskLogic:8": "OR",
           "visibility:8": "ALWAYS",
           "isMain:1": 0,
           "simultaneous:1": 0,
@@ -24570,7 +24828,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now that you made a thermometer sensor, there are some really useful sensors that you will need for future automation.  The Next one is a Weight-O-Meter.  This sensor measures the weight of the intems in some inventory such as the crucible or tank.  It can be used to set a redstone signal when the weight is exactly zero (i.e. it is empty).  The redstone can be connected to a hopper to drop items back in the crucible.  This is how you set up automated smelting using the crucible.  A combination of thermometer sensor to shut off hte burning box and to start pouring into the molds and a weight-o-meter to drop new items into the crucible.\n§6§e§b\nPro Tip:  View one of Bear\u0027s many automating videos to see how you can set up auto iron, bronze, brass, steel, and stainless steel using these items.\n§f\nFor now lets make a light version of the weight-o-meter as we only needc it to read zero.  You only need 2 double tin alloy plates, 4 red alloy fine wire, a wooden pressure plate, and 2 tin alloy bolts.  Don\u0027t worry that the sensor uses a wood plate, it won\u0027t burn up even if on the side of a crucible.\n§a\nTo complete this quest craft:\n1 Light Weight-O-Meter"
+          "desc:8": "Now that you made a thermometer sensor, there are some really useful sensors that you will need for future automation.  The Next one is a Weight-O-Meter.  This sensor measures the weight of the intems in some inventory such as the crucible or tank.  It can be used to set a redstone signal when the weight is exactly zero (i.e. it is empty).  The redstone can be connected to a hopper to drop items back in the crucible.  This is how you set up automated smelting using the crucible.  A combination of thermometer sensor to shut off hte burning box and to start pouring into the molds and a weight-o-meter to drop new items into the crucible.\n§6§e§b\nPro Tip:  View one of Bear\u0027s many automating videos to see how you can set up auto iron, bronze, brass, steel, and stainless steel using these items.\n§f\nFor now lets make a light version of the weight-o-meter as we only needc it to read zero.  You only need 2 double tin alloy plates, 4 red alloy fine wire, a wooden pressure plate, and 2 tin alloy bolts.  Don\u0027t worry that the sensor uses a wood plate, it won\u0027t burn up even if on the side of a crucible.\n§a\nTo complete this quest craft:\n1 Light Weight-O-Meter \n       -or-\n1 Medium Weight-O-Meter"
         }
       },
       "tasks:9": {
@@ -24586,6 +24844,23 @@
               "id:8": "gregtech:gt.multitileentity",
               "Count:3": 1,
               "Damage:2": 31010,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 31011,
               "OreDict:8": ""
             }
           },
@@ -25199,7 +25474,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now we can use that ethanol and generate some power.  So you can make a Diesel Engine.  The D\u003diesel Engine will burn you ethanol and generate some RU.  For a mixer, one Diesel Engine can be used instead of busing a burning box, boiler and turnine to generate RU needed for that mixer.\n\nThe main new item that is required for making a diesel generator is the Lubricant.  There are ways to make lubricant besides the distallation tower and oil.  One way is to use a juicer and juice those industrial hemp seeds from Industrial Craft if that mod is installed.  The Bronze Diesel Engine generates 16 RU/t and the Steel Diesel Engine generates 32 RU/t.\n§b\nTip:  You will not have a way to turn on and off the diesel engine until you get Aluminum to make covers.  In the mean time you can use your wrench to connect and disconnect the ethanol pipe as a way to turn on and off the Diesel Generator.\n§a\nTo complete this quest craft:\n1 Diesel Engine (Bronze or Steel)"
+          "desc:8": "Now we can use that ethanol and generate some power.  So you can make a Diesel Engine.  The D\u003diesel Engine will burn you ethanol and generate some RU.  For a mixer, one Diesel Engine can be used instead of busing a burning box, boiler and turnine to generate RU needed for that mixer.\n\nThe main new item that is required for making a diesel generator is the Lubricant.  There are ways to make lubricant besides the distallation tower and oil.  One way is to use a juicer and juice those industrial hemp seeds from Industrial Craft if that mod is installed.  The Bronze and Arsenic Copper Diesel Engines generates 16 RU/t, the Arsenic Bronze Diesel Engine generates 24 RU/t and the Steel Diesel Engine generates 32 RU/t.\n§b\nTip:  You will not have a way to turn on and off the diesel engine until you get Aluminum to make covers.  In the mean time you can use your wrench to connect and disconnect the ethanol pipe as a way to turn on and off the Diesel Generator.\n§a\nTo complete this quest craft:\n1 Diesel Engine (Bronze, Arsenic Copper, Arsenic Bronze or Steel)"
         }
       },
       "tasks:9": {
@@ -25232,6 +25507,40 @@
               "id:8": "gregtech:gt.multitileentity",
               "Count:3": 1,
               "Damage:2": 9148,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 2,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 9146,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "3:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 3,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 1,
+              "Damage:2": 9145,
               "OreDict:8": ""
             }
           },
@@ -27036,7 +27345,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "In order to make a boule for your circuit parts, you will need a noble gas.  In the early stage of the game, there is only one noble gas you can get fairly easily.  That gas is Argon [Ar] and comes from running Purified Biotite through a dryer.  You cna get Purified Biotite as a byproduct chance from running crushed Chrysotile Ore, crushed Diatomite Ore, crushed Mica Ore, crushed Vermiculite Ore, crushed Jade Ore through the sluice.\n\nTo complete this quest gather:\n1000mB Argon Gas"
+          "desc:8": "In order to make a boule for your circuit parts, you will need a noble gas.  In the early stage of the game, there is only one noble gas you can get fairly easily.  That gas is Argon [Ar] and comes from running Purified Biotite through a dryer.  You can get Purified Biotite as a byproduct chance from running crushed Chrysotile Ore, crushed Diatomite Ore, crushed Mica Ore, crushed Vermiculite Ore, crushed Jade Ore through the sluice.\n\nTo complete this quest gather:\n1000mB Argon Gas"
         }
       },
       "tasks:9": {
@@ -27454,6 +27763,288 @@
           }
         }
       }
+    },
+    "304:10": {
+      "questID:3": 304,
+      "preRequisites:11": [
+        2
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "gregtech:gt.meta.plate",
+            "Count:3": 1,
+            "Damage:2": 8614,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "repeat_relative:1": 1,
+          "name:8": "Arsenic Copper",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "As of Gregtech 6.16.02 Greg added a new alloy Arsenic Copper.  This alloy is made similar to brinze or brass with using 1 Arsenic with 3 Copper.  This allow is good for make weapons jwith additional damage to slimaes.  Another advantage is the alloy can make item pipes.  Another use is burning boxes has slightly better effeciency than the bronze burning boxes.  You can make other items like chests, advanced crafting tables, lockers, and more.\n§§§a\n§\nTo complete the quuest make:\n4 Arsenic Copper Plates\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.meta.plate",
+              "Count:3": 4,
+              "Damage:2": 8614,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2005,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2003,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "305:10": {
+      "questID:3": 305,
+      "preRequisites:11": [
+        2
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "gregtech:gt.meta.plate",
+            "Count:3": 1,
+            "Damage:2": 8615,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "repeat_relative:1": 1,
+          "name:8": "Arsenic Bronze",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "Another new alloy added in Gregtech 6.16.02 is Arsenic Bronze.  This alloy is made from 3 copper, 1 tin, and 1 arsenic.  This alloy has more damage to slimes than arsenic copper.  This alloy also has better effecency and higher heat output than bronze or arsenic copper burnign boxes.  This alloy can also be used for diesel engines with slightly higher output than the bronze diesel engiens.  This alloy can also be used for a tier 2 item pipe but has the same step size as tier 1 bronze item pipes.  This is probably an easy iter 2 as the other tier 2 item pipes require electum (silver/gold).\n§b\nNote you can create this alloy by spelting the 3 copper + 1 tin + 1 arsenic or 4 bronze + 1 arsenic or 4 arsenic copper + 1 tin.\n§a\nTo complete this quest make :\n5 Arsenic Bronze Plates"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.meta.plate",
+              "Count:3": 5,
+              "Damage:2": 8615,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2005,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2003,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "306:10": {
+      "questID:3": 306,
+      "preRequisites:11": [
+        304,
+        18
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "gregtech:gt.multitileentity",
+            "Count:3": 1,
+            "Damage:2": 25352,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "repeat_relative:1": 1,
+          "name:8": "Arsenic Copper Item Pipes",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "As of Gregtech 6.16.02 Greg added Arsenic Alloys.  Once of these alloys, Arsenic Copper can be used as item pipes and can be used with other item pipes like the brass ones to make networks.  By mixing different types of material item pipes you can control the path that items can take as it would find the shortest distance.  Arsenic Copper pipes count as half the distance (step size) than brass item pipes.\n§b\nNote: Gregs pipes have a concept called step size.  To determine a path that an item would take depends on the shortest path from the input to an avbailalbe storage spot (Machine, barrel, chest, etc).  This shorted path is calculated by adding up the step size.  A normal tier 1 item pipe uses a step  size of 32,768.  The arsenic copper item pipe uses a step size 16,384. So using the same number of arsenic copper item pipes as brass item pipes, an item would ues the arsenic copper pipes as a shorter path.\n§a\nTo ocmplete this quest craft:\n4 Arsenic Copper Item Pipe"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 4,
+              "Damage:2": 25352,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2005,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2003,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "307:10": {
+      "questID:3": 307,
+      "preRequisites:11": [
+        18,
+        305
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "gregtech:gt.multitileentity",
+            "Count:3": 1,
+            "Damage:2": 25377,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "repeat_relative:1": 1,
+          "name:8": "Arsenic Bronze Item Pipes",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "The new Arsenic Brionze alloy probably will be your first tier 2 Item Pipe.  Tier 2 Item pipes can move 2 stacks of items at a time instead of one.  The other tier 2 Item pipes requires silver and/or gold to make Electrum or Black Bronze.  Arsenic Bronze only need Copper, tin and Arsenic with arsenic and copper coming from a copper/tetra vein.  Unlike the other tier 2 Item Pipes, ARsenic Bronze Item Pipes has double the step size compared to electrum or black bronze.  This step size is the same as the tier 1 Bronze Item Pipes.\n§a\nTo complete the quest craft:\n4 Arsenic Bronze Item Pipes.\n\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multitileentity",
+              "Count:3": 4,
+              "Damage:2": 25377,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2005,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "gregtech:gt.multiitem.food",
+              "Count:3": 1,
+              "Damage:2": 2003,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -27739,8 +28330,8 @@
       "quests:9": {
         "0:10": {
           "sizeX:3": 24,
-          "x:3": -348,
-          "y:3": 0,
+          "x:3": -360,
+          "y:3": -12,
           "id:3": 6,
           "sizeY:3": 24
         },
@@ -27859,7 +28450,7 @@
         "17:10": {
           "sizeX:3": 24,
           "x:3": -348,
-          "y:3": 36,
+          "y:3": 24,
           "id:3": 28,
           "sizeY:3": 24
         },
@@ -28015,6 +28606,34 @@
           "x:3": -12,
           "y:3": -48,
           "id:3": 284,
+          "sizeY:3": 24
+        },
+        "40:10": {
+          "sizeX:3": 24,
+          "x:3": -396,
+          "y:3": 0,
+          "id:3": 304,
+          "sizeY:3": 24
+        },
+        "41:10": {
+          "sizeX:3": 24,
+          "x:3": -432,
+          "y:3": 12,
+          "id:3": 305,
+          "sizeY:3": 24
+        },
+        "42:10": {
+          "sizeX:3": 24,
+          "x:3": -384,
+          "y:3": 48,
+          "id:3": 306,
+          "sizeY:3": 24
+        },
+        "43:10": {
+          "sizeX:3": 24,
+          "x:3": -408,
+          "y:3": 84,
+          "id:3": 307,
           "sizeY:3": 24
         }
       },
