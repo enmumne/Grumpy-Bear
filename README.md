@@ -3,7 +3,7 @@ Bear's vanilla version
 
 What it is: 
 + GregTech 6 on Java 21, based on Bear's default testing pack
-+ performance mods: NotFine + Neodymium + Archaicfix + CoreTweaks
++ performance mods: Angelica test + Archaicfix + CoreTweaks
 + no Fastcraft or Optifine
 + updated mods, but no other changes
 
