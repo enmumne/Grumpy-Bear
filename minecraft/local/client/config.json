@@ -19,7 +19,7 @@
   },
   "sidebar_buttons": {
     "ftbu.claimed_chunks": true,
-    "ftbu.guide": true,
+    "ftbu.guide": false,
     "ftbu.server_info": true
   }
 }
