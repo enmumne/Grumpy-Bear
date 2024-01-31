@@ -7,16 +7,12 @@ What it is:
 + no Fastcraft or Optifine
 + updated mods, but no other changes
 
-It should import and run with PolyMC/Prism, but you need to point it to your local Java 21 version. My Java flags work with GraalVM. 
+It should import and run with PolyMC/Prism, but you need to point it to your local Java 21 version. My included Java flags work with GraalVM. 
 
 I'm using Oracle official release:  
 https://www.oracle.com/java/technologies/downloads/#graalvmjava21-windows  
-(direct link for windows) https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_windows-x64_bin.zip
-
-When Enterprise releases by Oracle are out I generally switch to them, as they usually have very slightly better peformance:    
-https://www.oracle.com/downloads/graalvm-downloads.html 
- 
-(remove "-Darchaicfix.debug.noUpdateAcceleration=true" from Java flags for much faster chunk generation) 
+(direct link for windows) https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_windows-x64_bin.zip  
+Even if the link stays the same, the Java version gets updated every few months. Currently it's 21.0.2  
  
 To use with MultiMC you need some additional steps. You need to add these java flags:  
 
