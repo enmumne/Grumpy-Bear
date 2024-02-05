@@ -5,7 +5,7 @@ What it is:
 + GregTech 6 on Java 21, based on Bear's default testing pack
 + performance mods: Angelica test + Archaicfix + CoreTweaks
 + no Fastcraft or Optifine
-+ updated mods, but no other changes
++ updated mods, but no other major changes (delete SpecialMobs and SpecialAI for full parity...)
 
 It should import and run with PolyMC/Prism, but you need to point it to your local Java 21 version. My included Java flags work with GraalVM. 
 
