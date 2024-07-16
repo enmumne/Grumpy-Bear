@@ -7,12 +7,12 @@ What it is:
 + no Fastcraft or Optifine
 + updated mods, but no other major changes (delete SpecialMobs and SpecialAI for full parity...)
 
-It should import and run with PolyMC/Prism, but you need to point it to your local Java 21 version. My included Java flags work with GraalVM. 
+It should import and run with PolyMC/Prism, but you need to point it to your local Java 22 version. My included Java flags work with GraalVM. 
 
 I'm using Oracle official release:  
-https://www.oracle.com/java/technologies/downloads/#graalvmjava21-windows  
-(direct link for windows) https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_windows-x64_bin.zip  
-Even if the link stays the same, the Java version gets updated every few months. Currently it's 21.0.2  
+https://www.oracle.com/java/technologies/downloads/#graalvmjava22-windows  
+(direct link for windows) https://download.oracle.com/graalvm/22/latest/graalvm-jdk-22_windows-x64_bin.zip
+Even if the link stays the same, the Java version gets updated every few months. Currently it's 22+36.1  
  
 To use with MultiMC you need some additional steps. You need to add these java flags:  
 
