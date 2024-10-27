@@ -4,6 +4,10 @@
     "0:10": {
       "questIDHigh:4": -4083020363783912572,
       "questIDLow:4": -4967431951317218047
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 301
     }
   },
   "questIDLow:4": -7279830830202614455,
@@ -29,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The large battery box if you want to store enough battery power to run 8 or 9 machines at a time.  It would also keep a single machine goign for longer.  You will need the ULV Transformer in the recipe.\n§a\nTo Complete this quest craft:\n1 Large Battery Box (ULV)\n\n"
+      "desc:8": "The large battery box if you want to store enough battery power to run 8 or 9 machines at a time.  It would also keep a single machine going for longer.  You will need the ULV Transformer in the recipe.\n§a\nTo Complete this quest craft:\n1 Large Battery Box (ULV)\n\n"
     }
   },
   "tasks:9": {

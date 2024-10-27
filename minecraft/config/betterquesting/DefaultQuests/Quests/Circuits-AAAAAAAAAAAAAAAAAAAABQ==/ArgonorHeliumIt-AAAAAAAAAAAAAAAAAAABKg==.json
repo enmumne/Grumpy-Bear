@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "In order to make a boule for your circuit parts, you will need a noble gas.  In the early stage of the game, there is only one noble gas you can get fairly easily.  That gas is Argon [Ar] and comes from running Purified Biotite through a dryer.  You can get Purified Biotite as a byproduct chance from running crushed Chrysotile Ore, crushed Diatomite Ore, crushed Mica Ore, crushed Vermiculite Ore, crushed Jade Ore through the sluice.\n§6\nAlternative:  Once you get a Smelter, you can smelt Monazite Dusts to get Helium.  You will also get some Rare Earth Dust from the process.  \n§a\nTo complete this quest gather:\n1000mB Argon Gas or Helium Gas"
+      "desc:8": "In order to make a boule for your circuit parts, you will need a noble gas.  In the early stage of the game, there are two noble gases you can get fairly easily.  Those gases is Argon [Ar] and Helium [He].  Argon comes from running Purified Biotite through a dryer.  You can get Purified Biotite as a byproduct chance from running the following crushed ores: Chrysotile, Diatomite, Mica, Vermiculite, or Jade through the sluice.  \n\nFor Helium you will need a smelter.  Then you can smelt Monazite Dusts to get Helium.  You will also get some Rare Earth Dust from the process.  \n§a\nTo complete this quest gather:\n1000mB Argon Gas or Helium Gas"
     }
   },
   "tasks:9": {

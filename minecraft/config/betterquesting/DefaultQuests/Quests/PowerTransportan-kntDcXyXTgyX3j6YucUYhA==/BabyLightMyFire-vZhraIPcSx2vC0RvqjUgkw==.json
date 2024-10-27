@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "What do you do if you want to use some of your power to automatically light your burning boxes and/or Coke Ovens?  You can use an Automatic Igniter.  It does not take much pwoer to do an ignite so the Ultra Low Voltage works perfectly for this.  You can use the LV to IV version if you want but why waste that power?  When setting this up make sure to use a Transformer (ULV - LV) to make sure the voltage does not exceed the Igniters limits.\n§a\nTo complete this quest craft:\n1 Automatic Igniter (ULV)"
+      "desc:8": "What do you do if you want to use some of your power to automatically light your burning boxes and/or Coke Ovens?  You can use an Automatic Igniter.  It does not take much power to do an ignite so the Ultra Low Voltage works perfectly for this.  You can use the LV to IV version if you want but why waste that power?  When setting this up make sure to use a Transformer (ULV - LV) to make sure the voltage does not exceed the Igniters limits.\n§a\nTo complete this quest craft:\n1 Automatic Igniter (ULV)"
     }
   },
   "tasks:9": {

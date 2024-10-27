@@ -2,6 +2,10 @@
   "questIDHigh:4": -2811841438187829086,
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 301
+    },
+    "1:10": {
       "questIDHigh:4": -1299337801987111631,
       "questIDLow:4": -7650950428386805280
     }
@@ -29,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "If you need a larger storage Low Voltage Battery Box. then make a Large Battery Box (LV).\n§a\nTo complete the quest carft:\n1 Large Battery Box (LV)"
+      "desc:8": "If you need a larger storage Low Voltage Battery Box. then make a Large Battery Box (LV).\n§a\nTo complete the quest craft:\n1 Large Battery Box (LV)"
     }
   },
   "tasks:9": {

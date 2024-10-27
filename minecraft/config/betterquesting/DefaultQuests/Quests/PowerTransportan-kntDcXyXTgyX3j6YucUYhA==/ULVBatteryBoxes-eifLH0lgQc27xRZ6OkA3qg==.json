@@ -2,6 +2,10 @@
   "questIDHigh:4": 8802227331954393549,
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 301
+    },
+    "1:10": {
       "questIDHigh:4": 3845780199855179198,
       "questIDLow:4": -8971802637727154983
     }
@@ -29,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "You can ULV (Ultra Low Voltage) for things like electric igniters or other machines that only need 8 EU or less.\n§a\nTo ocmplete this quest make:\n1 ULV Baterry Box"
+      "desc:8": "You can ULV (Ultra Low Voltage) for things like electric igniters or other machines that only need 8 EU or less.\n§a\nTo complete this quest make:\n1 ULV Battery Box"
     }
   },
   "tasks:9": {

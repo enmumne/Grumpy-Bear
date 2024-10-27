@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Your first power generated from dynamos are Low Voltage (LV).  so you need a transformer that can take LV and step it down to Ultra Low Voltage (ULV).  The Transformer will have 1 side that accepts LV power and the 4 other sides that ouytputs ULV vlotage.\n§a\nTo complete this quest craft:\n1 Transformer (ULV-LV)"
+      "desc:8": "Your first power generated from dynamos are Low Voltage (LV).  so you need a transformer that can take LV and step it down to Ultra Low Voltage (ULV).  The Transformer will have 1 side that accepts LV power and the 4 other sides that outputs ULV voltage.\n§a\nTo complete this quest craft:\n1 Transformer (ULV-LV)"
     }
   },
   "tasks:9": {

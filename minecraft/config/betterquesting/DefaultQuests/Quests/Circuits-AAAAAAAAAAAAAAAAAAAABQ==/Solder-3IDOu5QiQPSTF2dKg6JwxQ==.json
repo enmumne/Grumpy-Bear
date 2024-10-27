@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "You will need some solder to keep your electronic componets to stay connected on your circuit boards.  There are three different molten materials that you can use:  Molten Soldering Alloy, Molten Tin and Molten Lead.  For most circuits, ou will want to use the molten ally.  Lead will reduce the quality of a circuit by 2 but can be used to make a Tier 1 Circuit.  Tin will reduce the circuit quality by 1 but can be used on Tier 1 or Tier 2 circuits.\n§a§b\nNote: Soldering Alloy is made with 9 tin and 1 Antimony.\n§a\nTo complete this quest use your crucible or smelter to make:\n1000mB Molten Soldering Alloy, Molten Tin, or Molten Lead"
+      "desc:8": "You will need some solder to keep your electronic components connected on your circuit boards.  There are three different molten materials that you can use:  Molten Soldering Alloy, Molten Tin and Molten Lead.  For most circuits, you will want to use the molten alloy.  Lead will reduce the quality of a circuit by 2 but can be used to make a Tier 1 Circuit.  Tin will reduce the circuit quality by 1 but can be used on Tier 1 or Tier 2 circuits.\n§a§b\nNote: Soldering Alloy is made with 9 tin and 1 Antimony.\n§a\nTo complete this quest use your crucible or smelter to make:\n1000mB Molten Soldering Alloy, Molten Tin, or Molten Lead"
     }
   },
   "tasks:9": {
