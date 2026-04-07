@@ -7,7 +7,7 @@ What it is:
 + no Fastcraft or Optifine
 + updated mods, but no other major changes (delete SpecialMobs and SpecialAI for full parity...)
 
-It should import and run with PolyMC/Prism, but you need to point it to your local Java 25 version. My included Java flags work ONLY with GraalVM. 
+It should import and run with PolyMC/Prism, but before you can launch it you need to edit the path to your own unzipped local Java 25. My included Java flags work ONLY with GraalVM. 
 
 While Oracle recently discontinued GraalVM, it's still the best performing version at this moment:  
 https://www.graalvm.org/downloads/  
